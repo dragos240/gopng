@@ -1,0 +1,4 @@
+scripts/
+test/
+raw_images/
+!raw_images
